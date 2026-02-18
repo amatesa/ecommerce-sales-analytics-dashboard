@@ -13,8 +13,10 @@ The objective was to simulate a real-world Business Intelligence workflow — fr
   [View Dashboard](https://lookerstudio.google.com/reporting/bd828786-31f0-4be3-adac-1713c5c9f8e0)
 
 - 📊 **Google Sheets (Reader Access):**
-  [View Data Model & Analysis I](https://docs.google.com/spreadsheets/d/1FnMORQUjp9XpQme-M7usGkOX2yFDTRaYGhkV8XOdJPA/edit?usp=sharing)
-  [View Data Model & Analysis II](https://docs.google.com/spreadsheets/d/1Igxuhiq4tNwnRz1uqdOSlB_lfTAlOW71uR3EO7-L520/edit?usp=sharing)
+
+   [View Data Model & Analysis I](https://docs.google.com/spreadsheets/d/1FnMORQUjp9XpQme-M7usGkOX2yFDTRaYGhkV8XOdJPA/edit?usp=sharing)
+
+   [View Data Model & Analysis II](https://docs.google.com/spreadsheets/d/1Igxuhiq4tNwnRz1uqdOSlB_lfTAlOW71uR3EO7-L520/edit?usp=sharing)
   
 ## Business Objective
 
