@@ -5,6 +5,7 @@
 This project analyzes an e-commerce sales dataset and transforms raw transactional data into actionable business insights using **Google Sheets** and **Looker Studio**.
 
 The objective was to simulate a real-world Business Intelligence workflow — from data quality validation and cleaning to KPI definition, interactive dashboards, and strategic recommendations.
+
 ![Dashboard](screenshots/dashboard-overview.png)
 ---
 ## 🔗 Live Access
