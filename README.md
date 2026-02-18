@@ -1,82 +1,99 @@
-E-commerce Sales Analytics Dashboard
-Overview
+# E-commerce Sales Analytics Dashboard
 
-This project analyzes an e-commerce sales dataset and transforms raw data into actionable business insights using Google Sheets and Looker Studio.
+## Project Overview
 
-The objective was to simulate a real-world business intelligence workflow from data acquisition to strategic recommendations.
+This project analyzes an e-commerce sales dataset and transforms raw transactional data into actionable business insights using **Google Sheets** and **Looker Studio**.
 
-Process
-1. Data Quality & Cleaning
+The objective was to simulate a real-world Business Intelligence workflow — from data quality validation and cleaning to KPI definition, interactive dashboards, and strategic recommendations.
 
-Data validation checklist
+---
 
-Missing value detection
+## Business Objective
 
-Normalization of categories and regions
+To convert raw sales data into structured insights that support:
 
-Structured tabular model
+- Revenue optimization  
+- Product performance evaluation  
+- Regional strategy decisions  
+- Payment behavior analysis  
+- Seasonal sales planning  
 
-2. Exploratory Data Analysis
+---
 
-Descriptive statistics (mean, median, standard deviation)
+## Project Scope
 
-Monthly sales trends
+### Data Quality & Cleaning (Google Sheets)
 
-Category performance
+- Data validation checklist  
+- Missing value detection  
+- Category and region normalization  
+- Structured data model creation  
+- Dataset integration  
 
-Regional breakdown
+---
 
-3. KPI Definition
+### Exploratory Data Analysis
 
-Total Revenue
+- Monthly revenue analysis  
+- Category performance comparison  
+- Regional sales breakdown  
+- Descriptive statistics (mean, median, standard deviation)  
+- Identification of seasonal patterns  
 
-Number of Transactions
+---
 
-Average Ticket
+### KPI Definition
 
-Sales by Category
+The following key metrics were defined and calculated:
 
-Sales by Region
+- **Total Revenue**
+- **Total Transactions**  
+- **Average Ticket**   
+- Sales by Category  
+- Sales by Region  
+- Top Products by Revenue  
+- Top Products by Quantity  
+- Payment Method Distribution  
 
-Payment Method Distribution
+---
 
-4. Interactive Dashboard (Looker Studio)
+### Interactive Dashboard (Looker Studio)
 
-Monthly evolution line chart
+An interactive dashboard was built including:
 
-Sales by category bar chart
+- Monthly sales evolution (line chart)  
+- Category revenue comparison (bar chart)  
+- Regional performance breakdown  
+- Top products analysis  
+- Payment methods visualization  
+- Heatmap (Month × Category)  
+- Dynamic filters (Region, Category, Date, Status)  
 
-Regional performance analysis
+---
 
-Top products by revenue & quantity
+## Key Insights
 
-Payment methods analysis
+- Stable sales performance throughout the year with seasonal peaks in June–July and December  
+- Carnicería and Lácteos account for more than 40% of total revenue  
+- Buenos Aires represents the strongest regional market  
+- Revenue concentration in a limited number of high-performing products  
+- Mercado Pago dominates payment method usage  
 
-Interactive filters (region, category, date)
+---
 
-Key Insights
+## Strategic Recommendations
 
-Clear seasonal peaks (June–July and December)
+- Reinforce marketing campaigns during seasonal peaks  
+- Prioritize high-performing regions for advertising investment  
+- Strengthen digital payment strategies and loyalty programs  
+- Optimize product mix in low-performing categories  
+- Monitor inventory in low-rotation periods  
 
-Carnicería and Lácteos dominate total revenue
+---
 
-Buenos Aires represents the strongest regional market
+## Tools Used
 
-Mercado Pago is the leading payment method
+- Google Sheets (data cleaning, pivot tables, KPI calculation)  
+- Looker Studio (interactive dashboard design)  
 
-Revenue concentration in a small group of top products
 
-Strategic Recommendations
-
-Reinforce promotions in seasonal peaks
-
-Focus advertising investment in high-performing regions
-
-Leverage digital payment dominance for loyalty programs
-
-Diversify lower-performing categories
-
-Tools Used
-
-Google Sheets
-Looker Studio
